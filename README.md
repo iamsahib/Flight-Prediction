@@ -39,7 +39,7 @@ Various machine learning algorithms were implemented for price prediction:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flight-price-prediction.git
+   git clone https://github.com/iamsahib/flight-price-prediction.git
    ```
 2. Navigate to the project folder:
    ```bash
